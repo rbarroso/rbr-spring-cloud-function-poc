@@ -1,2 +1,3 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.example.demo.config.ConditionalConfiguration
+com.example.demo.config.ConditionalConfiguration,\
+org.springframework.cloud.stream.function.CustomFunctionConfiguration
